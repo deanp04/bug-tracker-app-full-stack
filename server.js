@@ -13,22 +13,13 @@ const connectDB = require("./config/database");
 const homeRoutes = require("./routes/home")
 const editRoutes = require("./routes/edit")
 require('dotenv').config({path: './config/.env'})
-// passport config
-require("./config/passport")(passport);
 
 connectDB()
-
-//Logging
-app.use(logger("dev"));
 
 //Set Middleware
 app.set("view engine", "ejs");
 app.use(express.static('public'))
 app.use(express.urlencoded({ extended: true }));
-
-// Passport middleware
-app.use(passport.initialize());
-app.use(passport.session());
 
 //Set Routes
 app.use('/', homeRoutes)
