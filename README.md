@@ -17,11 +17,11 @@ I enjoyed the trouble-shooting and problem solving that had to occur as I figure
 Add user authentication with passport and expand features.
 
 ## How to use
-Clone or download the code
-npm install
-set up your own .env with DB_CONNECTION = "your mongoDB connection string"
-npm start
-run on localhost:8000
+- Clone or download the code
+- npm install
+- set up your own .env with DB_CONNECTION = "your mongoDB connection string"
+- npm start
+- run on localhost:8000
 
 ## Examples:
 Take a look at these other projects that I have in my own portfolio:
