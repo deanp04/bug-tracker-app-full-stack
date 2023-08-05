@@ -1,5 +1,5 @@
 # Bug Tracker
-A full stack Bug Tracker application using MVC structure that any team can use to log issues, assign to members, and track progress.
+A full stack Bug Tracker application using MVC structure that any team can use to log issues, assign tickets to users, and track progress.
 
 **Video DEMO:** https://www.youtube.com/embed/7Iakio4cUlk
 
