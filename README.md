@@ -30,5 +30,7 @@ Take a look at these other projects that I have in my own portfolio:
 
 **Star Wars Custom API Client Side:** https://github.com/deanp04/client-side-star-wars-api
 
+**Tenzies React-App:** (https://github.com/deanp04/tenzies-app)
+
 
 
